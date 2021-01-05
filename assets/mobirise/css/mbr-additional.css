@@ -1268,6 +1268,10 @@ section.lazy-placeholder:after {
   margin-top: 1rem;
   margin-bottom: 0;
 }
+.cid-rpmWiCMW4R .card-title,
+.cid-rpmWiCMW4R .card-img {
+  color: #232323;
+}
 .cid-rpmWmUMnI1 {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1361,6 +1365,7 @@ section.lazy-placeholder:after {
 .cid-rpmWqlkPW7 .price-value {
   font-weight: 700;
   vertical-align: top;
+  color: #232323;
 }
 @media (max-width: 550px) {
   .cid-rpmWqlkPW7 .price-figure {
