@@ -933,7 +933,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 992px) {
   .cid-rpmVH4XW9R .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
+    max-height: calc(98.5vh - 5.7rem);
   }
 }
 .cid-rpmVH4XW9R .collapsed button.navbar-toggler {
@@ -1790,7 +1790,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 992px) {
   .cid-rpmVH4XW9R .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
+    max-height: calc(98.5vh - 5.7rem);
   }
 }
 .cid-rpmVH4XW9R .collapsed button.navbar-toggler {
@@ -2340,7 +2340,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 992px) {
   .cid-rpmVH4XW9R .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
+    max-height: calc(98.5vh - 5.7rem);
   }
 }
 .cid-rpmVH4XW9R .collapsed button.navbar-toggler {
@@ -2772,7 +2772,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 992px) {
   .cid-rpmVH4XW9R .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
+    max-height: calc(98.5vh - 5.7rem);
   }
 }
 .cid-rpmVH4XW9R .collapsed button.navbar-toggler {
@@ -3246,7 +3246,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 992px) {
   .cid-rpmVH4XW9R .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
+    max-height: calc(98.5vh - 5.7rem);
   }
 }
 .cid-rpmVH4XW9R .collapsed button.navbar-toggler {
@@ -3801,7 +3801,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 992px) {
   .cid-rpmVH4XW9R .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
+    max-height: calc(98.5vh - 5.7rem);
   }
 }
 .cid-rpmVH4XW9R .collapsed button.navbar-toggler {
@@ -4285,7 +4285,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 992px) {
   .cid-rpmVH4XW9R .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
+    max-height: calc(98.5vh - 5.7rem);
   }
 }
 .cid-rpmVH4XW9R .collapsed button.navbar-toggler {
@@ -4772,7 +4772,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 992px) {
   .cid-rpmVH4XW9R .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
+    max-height: calc(98.5vh - 5.7rem);
   }
 }
 .cid-rpmVH4XW9R .collapsed button.navbar-toggler {
@@ -5258,7 +5258,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 992px) {
   .cid-rpmVH4XW9R .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
+    max-height: calc(98.5vh - 5.7rem);
   }
 }
 .cid-rpmVH4XW9R .collapsed button.navbar-toggler {
@@ -5744,7 +5744,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 992px) {
   .cid-rpmVH4XW9R .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
+    max-height: calc(98.5vh - 5.7rem);
   }
 }
 .cid-rpmVH4XW9R .collapsed button.navbar-toggler {
@@ -6923,6 +6923,10 @@ section.lazy-placeholder:after {
 .cid-rpmVH4XW9R .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-rpmVH4XW9R .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-rpmVH4XW9R .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-rpmVH4XW9R .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-rpmVH4XW9R .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -6933,7 +6937,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 992px) {
   .cid-rpmVH4XW9R .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
+    max-height: calc(98.5vh - 5.7rem);
   }
 }
 .cid-rpmVH4XW9R .collapsed button.navbar-toggler {
@@ -7023,6 +7027,10 @@ section.lazy-placeholder:after {
   .cid-rpmVH4XW9R .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-rpmVH4XW9R .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
+  }
+  .cid-rpmVH4XW9R .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-rpmVH4XW9R .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
   }
   .cid-rpmVH4XW9R .navbar-collapse.collapsing .navbar-buttons,
   .cid-rpmVH4XW9R .navbar-collapse.show .navbar-buttons {
