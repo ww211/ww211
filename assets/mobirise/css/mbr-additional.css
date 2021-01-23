@@ -5072,11 +5072,12 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-rqoFFQ5TFb {
-  background: #ffffff;
+  background: #b2ccd2;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 .cid-rqoFFQ5TFb .video-block {
   margin: auto;
-  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-rqoFFQ5TFb .video-block {
